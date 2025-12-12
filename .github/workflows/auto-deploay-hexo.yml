@@ -88,9 +88,8 @@ jobs:
           npm install hexo-butterfly-clock-anzhiyu --save
           # 历史上的今天
           npm i hexo-history-calendar --save
-          git clone -b main https://github.com/anzhiyu-c/hexo-theme-anzhiyu.git themes/anzhiyu
-
-          rm -rf themes/anzhiyu/.git
+          
+          npm install hexo-theme-anzhiyu --save
 
 
       # hexo 编译生成网站
@@ -113,7 +112,7 @@ jobs:
       # 自动发布到当前仓库的gh-pages分支，如需部署到其它仓库的，参考下面文档修改配置即可
       # 更多高级用法查看文档，https://github.com/peaceiris/actions-gh-pages
       - name: Deploy
-        uses: peaceiris/actions-gh-pages@v4
+        uses: peaceiris/actions-gh-pages@v3
         with:
           # 1.如何生成 github_token，github主页,Settings / Developer settings / Personal access tokens (classic)
           # 2.github_token 在 仓库 Settings,Actions secrets and variables,设置
