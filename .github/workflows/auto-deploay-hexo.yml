@@ -89,7 +89,8 @@ jobs:
           # 历史上的今天
           npm i hexo-history-calendar --save
           
-          rm -rf themes/anzhiyu/.git
+          npm uninstall hexo-theme-anzhiyu
+          npm install hexo-theme-anzhiyu --save
 
 
       # hexo 编译生成网站
