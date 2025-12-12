@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>毕少侠</title>
+  <title>Light</title>
   <icon>https://hexo.geekswg.top/imgs/avatar.webp</icon>
-  <subtitle>毕少侠也在江湖</subtitle>
+  <subtitle>-hexo-blog</subtitle>
   <link href="https://hexo.geekswg.top/atom.xml" rel="self"/>
   
   <link href="https://hexo.geekswg.top/"/>
-  <updated>2025-12-12T19:46:14.820Z</updated>
+  <updated>2025-12-12T19:58:20.499Z</updated>
   <id>https://hexo.geekswg.top/</id>
   
   <author>
-    <name>毕少侠</name>
+    <name>Mo</name>
     
   </author>
   
@@ -20,8 +20,8 @@
     <title></title>
     <link href="https://hexo.geekswg.top/posts/0.html"/>
     <id>https://hexo.geekswg.top/posts/0.html</id>
-    <published>2025-12-12T19:46:14.820Z</published>
-    <updated>2025-12-12T19:46:14.820Z</updated>
+    <published>2025-12-12T19:58:20.499Z</published>
+    <updated>2025-12-12T19:58:20.499Z</updated>
     
     <content type="html"><![CDATA[<h1 id="Test"><a href="#Test" class="headerlink" title="Test"></a>Test</h1>]]></content>
     
