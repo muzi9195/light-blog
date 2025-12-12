@@ -19,7 +19,7 @@ jobs:
     
     steps:
       - name: Checkout codes
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           submodules: true # 加载子模块，避免初始化过程中的额外加载。
 
