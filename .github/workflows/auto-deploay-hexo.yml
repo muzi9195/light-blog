@@ -88,6 +88,9 @@ jobs:
           npm install hexo-butterfly-clock-anzhiyu --save
           # 历史上的今天
           npm i hexo-history-calendar --save
+          git clone -b main https://github.com/anzhiyu-c/hexo-theme-anzhiyu.git themes/anzhiyu
+
+          rm -rf themes/anzhiyu/.git
 
 
       # hexo 编译生成网站
