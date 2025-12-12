@@ -2,14 +2,14 @@
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
 #设置主题
-theme: anzhiyu
+theme: hexo-theme-anzhiyu
 
 # Site
-title: 毕少侠
-subtitle: '毕少侠也在江湖'
-description: '毕少侠也在江湖-description'
-keywords: ['geekswg','毕少侠','毕少侠也在江湖','hexo','独行侠']
-author: 毕少侠
+title: Light
+subtitle: '-hexo-blog'
+description: 'light-description'
+keywords: ['light','hexo']
+author: Mo
 language: zh-CN
 timezone: ''
 
