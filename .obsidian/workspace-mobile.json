@@ -25,14 +25,14 @@
             "id": "76dd343b1294c5a1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "source/_posts/Demo.md",
-                "mode": "source",
-                "source": false
+                "aFile": "source/_posts/Demo.md",
+                "bFile": "source/_posts/Demo.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Demo"
+              "icon": "git-pull-request",
+              "title": "Diff: Demo"
             }
           }
         ],
@@ -181,10 +181,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fd6e14c91327ae50",
+  "active": "76dd343b1294c5a1",
   "lastOpenFiles": [
-    "source/_posts/1.md",
     "source/_posts/Demo.md",
+    "source/_posts/1.md",
     "pnpm-lock.yaml",
     "package.json",
     "hexo-offline.config.cjs",
