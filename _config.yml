@@ -2,7 +2,7 @@
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
 #设置主题
-theme: anzhiyu
+theme: ./theme/anzhiyu
 
 # Site
 title: Light
