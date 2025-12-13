@@ -15,14 +15,14 @@
     <atom:link href="https://hexo.geekswg.top/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>light-description</description>
-    <pubDate>Sat, 13 Dec 2025 02:06:14 GMT</pubDate>
+    <pubDate>Sat, 13 Dec 2025 07:04:35 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
       <title></title>
       <link>https://hexo.geekswg.top/posts/0.html</link>
       <guid>https://hexo.geekswg.top/posts/0.html</guid>
-      <pubDate>Sat, 13 Dec 2025 02:06:14 GMT</pubDate>
+      <pubDate>Sat, 13 Dec 2025 07:04:35 GMT</pubDate>
       
         
         
@@ -32,6 +32,28 @@
       
       
       <content:encoded><![CDATA[<h1 id="Test"><a href="#Test" class="headerlink" title="Test"></a>Test</h1>]]></content:encoded>
+      
+      
+      
+      
+      <comments>https://hexo.geekswg.top/posts/0.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hexo.geekswg.top/posts/0.html</link>
+      <guid>https://hexo.geekswg.top/posts/0.html</guid>
+      <pubDate>Sat, 13 Dec 2025 07:04:35 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h1 id=&quot;一次测试&quot;&gt;&lt;a href=&quot;#一次测试&quot; class=&quot;headerlink&quot; title=&quot;一次测试&quot;&gt;&lt;/a&gt;一次测试&lt;/h1&gt;&lt;h2 id=&quot;效果还行&quot;&gt;&lt;a href=&quot;#效果还行&quot; class=&quot;headerlink&quot; title=&quot;效果还行&quot;&gt;&lt;/a</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<h1 id="一次测试"><a href="#一次测试" class="headerlink" title="一次测试"></a>一次测试</h1><h2 id="效果还行"><a href="#效果还行" class="headerlink" title="效果还行"></a>效果还行</h2><figure class="highlight py"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">print</span>(<span class="string">&#x27;hello world&#x27;</span>);</span><br></pre></td></tr></table></figure><h1 id="test"><a href="#test" class="headerlink" title="test"></a>test</h1><ul><li>1</li><li>2</li><li>3<br>&#x3D;&#x3D;1&#x3D;&#x3D;.<strong>2</strong>.<em>3</em><del>4</del><code>5</code></li></ul>]]></content:encoded>
       
       
       
