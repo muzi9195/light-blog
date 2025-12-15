@@ -14,8 +14,8 @@ https://hexo.geekswg.top/custom/history/json/03.json
 https://hexo.geekswg.top/custom/history/json/02.json
 https://hexo.geekswg.top/custom/history/json/01.json
 https://hexo.geekswg.top/custom/barrage/readme.html
-https://hexo.geekswg.top/posts/0.html
-https://hexo.geekswg.top/posts/0.html
+https://hexo.geekswg.top/posts/5368.html
+https://hexo.geekswg.top/posts/938d.html
 https://hexo.geekswg.top/pages/editor-md/index.html
 https://hexo.geekswg.top/pages/equipment.html
 https://hexo.geekswg.top/album/album-3/index.html
