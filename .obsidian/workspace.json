@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "89f313246be1dff5",
+        "id": "c99ed9926f986a44",
         "type": "tabs",
         "children": [
           {
-            "id": "e8df46123b884e5b",
+            "id": "24b88175839978b5",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -188,7 +188,7 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "e8df46123b884e5b",
+  "active": "24b88175839978b5",
   "lastOpenFiles": [
     "public/img/siteicon/manifest-icon-512.maskable.png",
     "_config - 副本.yml",
