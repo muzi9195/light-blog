@@ -194,6 +194,9 @@
   },
   "active": "87daa0e7e32ab567",
   "lastOpenFiles": [
+    "public/img/default_cover.jpg",
+    "public/img/default_cover - 副本.jpg",
+    "public/img/wallhaven-9m5321.jpg",
     "source/_posts/测试文章.md",
     "source/_posts/hello-world.md",
     "scaffolds/post.md",
@@ -208,8 +211,6 @@
     "public/img/siteicon/32.png",
     "public/img/siteicon/16.png",
     "public/img/friend_404.gif",
-    "public/img/default_cover.jpg",
-    "public/img/comment_bg.png",
-    "public/img/algolia.svg"
+    "public/img/comment_bg.png"
   ]
 }
