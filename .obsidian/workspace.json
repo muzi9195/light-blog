@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6caf342b666ff313",
+        "id": "3c824b06adcf2ffb",
         "type": "tabs",
         "children": [
           {
-            "id": "28f74a755584ec21",
+            "id": "96b8ed3aa652a3c3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "source/_posts/测试文章.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "测试文章"
             }
           }
         ]
@@ -188,8 +192,13 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "28f74a755584ec21",
+  "active": "96b8ed3aa652a3c3",
   "lastOpenFiles": [
+    "source/_posts/hello-world.md",
+    "source/_posts/测试文章.md",
+    "scaffolds/post.md",
+    "scaffolds/page.md",
+    "scaffolds/draft.md",
     "source/img/猫猫.png",
     "source/img",
     "public/img/siteicon/manifest-icon-512.maskable.png",
@@ -201,7 +210,6 @@
     "public/img/friend_404.gif",
     "public/img/default_cover.jpg",
     "public/img/comment_bg.png",
-    "public/img/algolia.svg",
-    "public/img/512.png"
+    "public/img/algolia.svg"
   ]
 }
