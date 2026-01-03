@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c99ed9926f986a44",
+        "id": "6caf342b666ff313",
         "type": "tabs",
         "children": [
           {
-            "id": "24b88175839978b5",
+            "id": "28f74a755584ec21",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": "16299116a8520d86b22f6bb268bd1de41caee151^",
-                "bRef": "16299116a8520d86b22f6bb268bd1de41caee151"
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -193,8 +188,10 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "c8ae419e0d48c90a",
+  "active": "28f74a755584ec21",
   "lastOpenFiles": [
+    "source/img/猫猫.png",
+    "source/img",
     "public/img/siteicon/manifest-icon-512.maskable.png",
     "_config - 副本.yml",
     "public/img/siteicon/manifest-icon-192.maskable.png",
@@ -205,7 +202,6 @@
     "public/img/default_cover.jpg",
     "public/img/comment_bg.png",
     "public/img/algolia.svg",
-    "public/img/512.png",
-    "public/img/404.jpg"
+    "public/img/512.png"
   ]
 }
