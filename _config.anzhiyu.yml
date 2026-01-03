@@ -789,7 +789,7 @@ preloader:
   source: 3
   # pace theme (see https://codebyzach.github.io/pace/)
   pace_css_url:
-  avatar: https://cdn.jsdelivr.net/gh/muzi9195/light-pic/source/img/%E7%8C%AB%E7%8C%AB.png # 自定加载动画义头像
+  avatar: https://cdn.jsdelivr.net/gh/muzi9195/light-blog/source/img/%E7%8C%AB%E7%8C%AB.png # 自定加载动画义头像
 
 # aside (侧边栏)
 # --------------------------------------
@@ -858,7 +858,7 @@ busuanzi:
 # Formal: Month/Day/Year Time or Year/Month/Day Time
 runtimeshow:
   enable: true
-  publish_date: 3/1/2026 00:00:00
+  publish_date: 1/3/2026 00:00:00
 
 # Console - Newest Comments
 newest_comments:
