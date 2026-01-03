@@ -11,10 +11,15 @@
             "id": "24b88175839978b5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": "16299116a8520d86b22f6bb268bd1de41caee151^",
+                "bRef": "16299116a8520d86b22f6bb268bd1de41caee151"
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -188,7 +193,7 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "24b88175839978b5",
+  "active": "c8ae419e0d48c90a",
   "lastOpenFiles": [
     "public/img/siteicon/manifest-icon-512.maskable.png",
     "_config - 副本.yml",
