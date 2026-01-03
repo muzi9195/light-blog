@@ -194,6 +194,8 @@
   },
   "active": "87daa0e7e32ab567",
   "lastOpenFiles": [
+    "source/img/default_cover.jpg",
+    "source/img/Canvas-Ruom.webp",
     "public/img/default_cover.jpg",
     "public/img/default_cover - 副本.jpg",
     "public/img/wallhaven-9m5321.jpg",
@@ -209,8 +211,6 @@
     "public/img/siteicon/manifest-icon-192.maskable.png",
     "public/img/siteicon/apple-icon-180.png",
     "public/img/siteicon/32.png",
-    "public/img/siteicon/16.png",
-    "public/img/friend_404.gif",
-    "public/img/comment_bg.png"
+    "public/img/siteicon/16.png"
   ]
 }
