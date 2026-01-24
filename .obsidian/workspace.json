@@ -11,12 +11,14 @@
             "id": "c485a5a3f99566bc",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "source/img/Canvas-Ruom.webp"
+                "file": "source/_posts/常见八股文汇总.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Canvas-Ruom"
+              "icon": "lucide-file",
+              "title": "常见八股文汇总"
             }
           }
         ]
@@ -192,12 +194,12 @@
   },
   "active": "c485a5a3f99566bc",
   "lastOpenFiles": [
-    "source/img/default_cover.jpg",
+    "source/_posts/hello-world.md",
+    "source/_posts/测试文章.md",
     "source/img/Canvas-Ruom.webp",
+    "source/img/default_cover.jpg",
     "source/img/猫猫.png",
     "source/_posts/常见八股文汇总.md",
-    "source/_posts/测试文章.md",
-    "source/_posts/hello-world.md",
     "未命名.base",
     "public/img/default_cover.jpg",
     "themes/anzhiyu/source/img/default_cover.jpg",
