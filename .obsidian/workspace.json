@@ -11,14 +11,12 @@
             "id": "c485a5a3f99566bc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "source/_posts/常见八股文汇总.md",
-                "mode": "source",
-                "source": false
+                "file": "source/img/Canvas-Ruom.webp"
               },
-              "icon": "lucide-file",
-              "title": "常见八股文汇总"
+              "icon": "lucide-image",
+              "title": "Canvas-Ruom"
             }
           }
         ]
@@ -194,22 +192,22 @@
   },
   "active": "c485a5a3f99566bc",
   "lastOpenFiles": [
-    "source/_posts/测试文章.md",
+    "source/img/default_cover.jpg",
+    "source/img/Canvas-Ruom.webp",
+    "source/img/猫猫.png",
     "source/_posts/常见八股文汇总.md",
+    "source/_posts/测试文章.md",
     "source/_posts/hello-world.md",
     "未命名.base",
     "public/img/default_cover.jpg",
     "themes/anzhiyu/source/img/default_cover.jpg",
     "themes/anzhiyu/source/img/wallhaven-9m5321.jpg",
     "themes/anzhiyu/source/img/default_cover_bak.jpg",
-    "source/img/default_cover.jpg",
-    "source/img/Canvas-Ruom.webp",
     "public/img/default_cover - 副本.jpg",
     "public/img/wallhaven-9m5321.jpg",
     "scaffolds/post.md",
     "scaffolds/page.md",
     "scaffolds/draft.md",
-    "source/img/猫猫.png",
     "source/img",
     "public/img/siteicon/manifest-icon-512.maskable.png",
     "_config - 副本.yml"
