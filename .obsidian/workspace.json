@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/测试文章.md",
+                "file": "source/_posts/常见八股文汇总.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "测试文章"
+              "title": "常见八股文汇总"
             }
           }
         ]
@@ -194,8 +194,9 @@
   },
   "active": "c485a5a3f99566bc",
   "lastOpenFiles": [
-    "source/_posts/hello-world.md",
     "source/_posts/测试文章.md",
+    "source/_posts/常见八股文汇总.md",
+    "source/_posts/hello-world.md",
     "未命名.base",
     "public/img/default_cover.jpg",
     "themes/anzhiyu/source/img/default_cover.jpg",
